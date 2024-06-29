@@ -39,7 +39,7 @@ background-color: qlineargradient(spread:pad, x1:0, y1:1, x2:0, y2:0, stop:0 rgb
      <string notr="true">color: rgb(255, 255, 255);</string>
     </property>
     <property name="text">
-     <string>LISTA DESPLEGABLES</string>
+     <string>LISTAS DESPLEGABLES</string>
     </property>
     <property name="alignment">
      <set>Qt::AlignCenter</set>
