@@ -29,7 +29,7 @@ class CalculadoraController:
                         resultado = CalculadoraService.divisor(num1,num2)
                         op = "Divide"
                     else:
-                        if self.ventana.RB_multi():
+                        if self.ventana.RB_multi.isChecked():
                             resultado = CalculadoraService.multiplicado(num1,num2)
                             op = "Multiplica"
                         else:
