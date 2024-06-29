@@ -3,7 +3,7 @@ from controller.ComboCascadaController import ComboCascadaController
 from controller.ComboSimpleController import ComboSimpleController
 from controller.MayorMenorController import MayorMenorController
 
-Calculadora = CalculadoraController()
+#Calculadora = CalculadoraController()
 #ComboCascada = ComboCascadaController()
 #ComboSimple = ComboSimpleController()
-#MayorMenor = MayorMenorController()
+MayorMenor = MayorMenorController()

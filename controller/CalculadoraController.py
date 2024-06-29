@@ -40,7 +40,7 @@ class CalculadoraController:
             op = "¡Ingresa valores numéricos!"
         finally:
             if valor == True:
-                self.ventana.LB_resultado.setText(op+"="+str(resultado))
+                self.ventana.LB_resultado.setText(op+" = "+str(resultado))
             else:
                 if valor == False:
                     self.ventana.LB_resultado.setText(op)
